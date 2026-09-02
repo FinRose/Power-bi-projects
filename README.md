@@ -1,2 +1,14 @@
-# Power-Bi-Projects
-A growing collection of Power BI projects showcasing data analysis, visualization, and insights developed as part of my learning and portfolio journey.
+# Power BI | Business Intelligence Portfolio
+
+A collection of end-to-end Power BI projects focused on
+business intelligence, data analysis, dashboard development,
+and insight generation.
+
+## Projects
+
+### 👥 HR Attrition Analysis
+Workforce attrition, compensation, career progression and
+employee risk analysis.
+
+### ☕ Coffee Sales Analysis
+Sales performance, customer behaviour and geographic analysis.
