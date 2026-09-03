@@ -6,9 +6,13 @@ and insight generation.
 
 ## Projects
 
-### 👥 HR Attrition Analysis
-Workforce attrition, compensation, career progression and
-employee risk analysis.
+## 📊 Projects
+
+### HR Attrition Analysis
+
+Workforce attrition, compensation, career progression and employee risk analysis.
+
+👉 [View Project](HR-Attrition-Analysis/)
 
 ### ☕ Coffee Sales Analysis
 Sales performance, customer behaviour and geographic analysis.
