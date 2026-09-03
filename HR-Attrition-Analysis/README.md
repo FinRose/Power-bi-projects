@@ -246,17 +246,15 @@ Based on the observed patterns, HR could investigate:
 
 ### Executive Overview
 
-![Executive Overview](images/executive-overview.png)
+![Executive Overview](Images/Executive_Overview.png)
 
 ### Work Environment & Overtime Risk
 
-![Work Environment & Overtime Risk](images/work-environment-overtime.png)
+![Work Environment & Overtime Risk](Images/Work_Environment_Risk.png)
 
 ### Compensation & Career Stagnation
 
-![Compensation & Career Stagnation](images/compensation-career-stagnation.png)
-
-> Replace the image paths above with the actual screenshot filenames in the repository.
+![Compensation & Career Stagnation](Images/Compensation_Career_Stagnation.png)
 
 ---
 
