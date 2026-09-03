@@ -14,3 +14,5 @@ Workforce attrition, compensation, career progression and employee risk analysis
 
 ### ☕ Coffee Sales Analysis
 Sales performance, customer behaviour and geographic analysis.
+
+👉 [View Project](Coffee-Sales-Analysis/)
