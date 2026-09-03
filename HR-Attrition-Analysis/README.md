@@ -1,5 +1,7 @@
 # HR Employee Attrition Analysis | Power BI
 
+![HR Employee Attrition Analysis](Images/HR_Attrition_Hero.png)
+
 An interactive **Human Resources Analytics dashboard** built with Power BI to analyse employee attrition, identify workforce risk patterns, and uncover factors associated with employee turnover.
 
 The project examines attrition across departments, job roles, salary levels, tenure, overtime, work-life balance, business travel, distance from work, job satisfaction, gender, and career progression.
@@ -93,6 +95,22 @@ The promotion-status analysis highlights differences in attrition across employe
 
 This suggests that career development and progression should be considered when designing retention strategies.
 
+## 💡 Key Business Takeaway
+
+The analysis shows that employee attrition is not evenly distributed across the workforce. Attrition is particularly concentrated among Sales employees and is associated with factors such as overtime, lower compensation, shorter tenure, weaker work-life balance, and longer commuting distances.
+
+The findings suggest that HR teams could prioritize early-tenure employees, high-overtime teams, lower-compensation groups, and roles with elevated attrition rates when designing retention strategies.
+
+> **Business implication:** Rather than applying a single retention strategy across the organization, HR can use workforce data to identify higher-risk employee segments and target interventions where they are most needed.
+
+## 🛠️ What I Did
+
+- Cleaned and prepared the HR employee dataset for analysis.
+- Performed exploratory analysis to identify patterns in employee attrition.
+- Built calculated measures and KPIs using DAX.
+- Analyzed attrition across departments, job roles, tenure, compensation, overtime, work-life balance, and commuting distance.
+- Designed an interactive Power BI dashboard with three analytical pages.
+- Translated the analysis into business-focused insights and actionable HR recommendations.
 ---
 
 ## 📈 Dashboard Pages
@@ -246,17 +264,21 @@ Based on the observed patterns, HR could investigate:
 
 ### Executive Overview
 
-![Executive Overview](images/executive-overview.png)
+![Executive Overview](Images/Executive_Overview.png)
 
 ### Work Environment & Overtime Risk
 
-![Work Environment & Overtime Risk](images/work-environment-overtime.png)
+![Work Environment & Overtime Risk](Images/Work_Environment_Risk.png)
 
 ### Compensation & Career Stagnation
 
-![Compensation & Career Stagnation](images/compensation-career-stagnation.png)
+![Compensation & Career Stagnation](Images/Compensation_Career_Stagnation.png)
 
-> Replace the image paths above with the actual screenshot filenames in the repository.
+## 📊 Power BI Dashboard
+
+The complete interactive Power BI dashboard is available below:
+
+👉 [Download the Power BI Dashboard (.pbix)](Power%20BI/hr-employee-attrition-analysis.pbix)
 
 ---
 
