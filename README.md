@@ -4,8 +4,6 @@ A collection of end-to-end Power BI projects focused on
 business intelligence, data analysis, dashboard development,
 and insight generation.
 
-## Projects
-
 ## 📊 Projects
 
 ### HR Attrition Analysis
